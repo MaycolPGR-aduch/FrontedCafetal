@@ -16,3 +16,10 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+node_modules/
+dist/
+dist/
+dist/
+*.log
+.env*
+.DS_Store
